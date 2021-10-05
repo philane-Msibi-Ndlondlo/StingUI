@@ -1,2 +1,4 @@
 # StingUI
-A small Styling Library that has few components in it.
+
+A CSS styling and easy customizable library for any website. It has styled Buttons, FABs, lists, etc.
+
